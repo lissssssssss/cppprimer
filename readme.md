@@ -29,5 +29,5 @@ ______________________________________
 		std::cout << j << std::endl;
 		return 0;
 	}
-![好好学习，作一个合格的码农](/manong.jpg "立志好码农")
+![好好学习，作一个合格的码农](/manong.jpg "立志好码农")  
 [This is a link for baidu](www.baidu.com "这是一个链接")
